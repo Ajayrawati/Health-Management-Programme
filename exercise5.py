@@ -1,9 +1,5 @@
 # #Health management system
-# # 3 client - Harry, Rohan and hammad
-# # def getdata():
-# #     import datetime
-# #     return datetime.datetime.now()
-# #Total 6 files
+# # 3 client - Harry, Rohan and Hammad
 # #write a function that when executed takes as input clint name
 
 
